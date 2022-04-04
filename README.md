@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **SabidMahmud/SabidMahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is ***Sabid Mahmud***, a passionate *CS Engineering* student from Bangladesh.
+- 🌱 I’m currently learning *Structured Programming* with *C Programming Language*.
+- 🔭 I’m currently working on Programming Problem-Solving on [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/632242), [CodeForces](https://codeforces.com/profile/sabidmahmud). I have a repository on this, you may visit [Programming Probelms](https://github.com/SabidMahmud/programming-problems) to find it.
+- 🌱 I did learn Responsive Web Design using HTML and CSS at [freeCodeCamp](https://www.freecodecamp.org/learn).
+- 📫 How to reach me: You can find me on
+  - LinkedIn : @[SabidMahmud](https://www.linkedin.com/in/sabidmahmud/)
+  - Twitter  : @[_sabidmahmud](https://twitter.com/_sabidmahmud)  
+  
+**You can reach me through email @ sabidmahmud96@gmail.com**
