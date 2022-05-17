@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 This is ***Sabid Mahmud***, a passionate *CS Engineering* student from Bangladesh.
-- 🌱 I’m currently learning *Structured Programming* with *C Programming Language*.
-- 🔭 I’m currently working on Programming Problem-Solving on [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/632242), [CodeForces](https://codeforces.com/profile/sabidmahmud). I have a repository on this, you may visit [Programming Probelms](https://github.com/SabidMahmud/programming-problems) to find it.
+- 🌱 I’m currently learning *Structured Programming*. I am learning programming with Python3.
+- 🔭 I’m currently working on Programming Problem-Solving on [CodeForces](https://codeforces.com/profile/sabidmahmud). I have a repository on this, you may visit [Competetive Programming with CodeForces](https://github.com/SabidMahmud/CodeForces) to find it.
 - 🌱 I did learn Responsive Web Design using HTML and CSS at [freeCodeCamp](https://www.freecodecamp.org/learn).
 - 📫 How to reach me: You can find me on
   - LinkedIn : @[SabidMahmud](https://www.linkedin.com/in/sabidmahmud/)
