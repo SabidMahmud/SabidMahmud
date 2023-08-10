@@ -1,4 +1,3 @@
-<!-- ### Hi there 👋 -->
 <h1 align="center">Hello there<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">!<br>I am Sabid</h1>  
 <h3 align="center">A passionate Computer Science Student from 🇧🇩</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&" alt="SabidMahmud" /></p>
