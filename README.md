@@ -7,8 +7,9 @@
     Hello there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"><br>I am Sabid Mahmud
 </h1>  
 <h3 align="center">A passionate Computer Science Student from 🇧🇩</h3>  
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&" alt="SabidMahmud" />
+<p float="left">
+    <img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&hide_boarder=true" alt="SabidMahmud" />
+    <img align="" width="45%" src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=SabidMahmud&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
 <br>
 
@@ -17,6 +18,7 @@
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 <!-- <img width="30%" align="right" alt="Github" src="./photos/photo0.svg" /> -->
+
 
 - 👨🏻‍🎓 I am currently pursuing my bachelor's degree in Computer Science at the School of Data and Sciences, [BRAC University](https://www.bracu.ac.bd/academics/institutes-and-schools/school-data-and-sciences).  
 
