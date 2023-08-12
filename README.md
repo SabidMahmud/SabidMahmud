@@ -13,8 +13,9 @@
 
 - 👨🏻‍💻 I am interested in Modern Technologies, Software Engineering, Machine Learning, Artificial Intelligence and Research.
 
-- 💬 Talk to me about Python, JavaScript, Data Structures, ML, AI, Open Source Contribution, Career Opportunity etc.
- - 📫 Reach me at **sabid.mahmud@g.bracu.ac.bd**  
+- 💬 Talk to me about Python, JavaScript, Data Structures, ML, AI, Open Source Contribution, Career Opportunity etc. 
+
+- 📫 Reach me at **sabid.mahmud@g.bracu.ac.bd**  
 
 <br>
 
@@ -28,7 +29,7 @@
 <!-- facebook -->
 <a href="https://facebook.com/sabidmahmud.online" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabidmahmud.online" height="30" width="40" /></a>  
 <!-- medium -->
-<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>  
+<a href="https://sabidmahmud.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>  
 <!-- youtube -->
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>  
 <!-- discord
@@ -42,5 +43,7 @@
 
 ![Metrics](https://metrics.lecoq.io/SabidMahmud?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=%22JUPYTER%20NOTEBOOK%22%3A%20PYTHON&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka&config.display=large) 
 <br>
+
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=SabidMahmud&label=Profile%20views&color=0e75b6&style=flat" alt="SabidMahmud" align="left"/></span> 
+
 <br>
