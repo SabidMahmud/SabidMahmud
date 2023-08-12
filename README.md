@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Computer Science Student from 🇧🇩</h3>  
 <p float="left">
     <img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&hide_boarder=true" alt="SabidMahmud" />
-    <img align="" width="45%" src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=SabidMahmud&layout=compact&hide_border=true&title_color=142d70" width="350"/>
+    <img width="45%" src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=SabidMahmud&layout=compact&hide_border=true&title_color=142d70"/>
 </p>
 <br>
 
