@@ -23,13 +23,17 @@
 
 - 👨🏻‍🎓 I am currently pursuing my bachelor's degree in Computer Science at the School of Data and Sciences, [BRAC University](https://www.bracu.ac.bd/academics/institutes-and-schools/school-data-and-sciences).  
 
-- 🌱 I’m currently learning Python, Node JS, Data Structures and Algorithms.
+- 🌱 I’m currently learning Python, Data Structures, and JavaScript.
+
+- 👨🏻‍💻 I am currently contributing in [this](https://github.com/IstiakImran/bracu-search) project.
 
 - 👨🏻‍💻 I am interested in Modern Technologies, Software Engineering, Machine Learning, Artificial Intelligence and Research.
 
 - 💬 Talk to me about Python, JavaScript, Data Structures, ML, AI, Open Source Contribution, Career Opportunity etc. 
 
-- 📫 Reach me at **sabid.mahmud@g.bracu.ac.bd**  
+- 📫 Reach me at: 
+    - Academic email: **sabid.mahmud@g.bracu.ac.bd**
+    - Personal email: **sabidmahmud96@gmail.com**
 
 <br>
 
