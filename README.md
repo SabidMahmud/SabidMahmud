@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning Python, Data Structures, and JavaScript.
 
-- 👨🏻‍💻 I am currently contributing in [this](https://github.com/IstiakImran/bracu-search) project.
+<!-- - 👨🏻‍💻 I am currently contributing in [this](https://github.com/IstiakImran/bracu-search) project. -->
 
 - 👨🏻‍💻 I am interested in Modern Technologies, Software Engineering, Machine Learning, Artificial Intelligence and Research.
 
