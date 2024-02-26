@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
  
 <img width="100%" src="./photos/header.svg" alt="cover" />
 </div>
@@ -107,4 +107,4 @@
 
 <div align="center">
 <img widht="100%" src="./photos/wave.svg"/ alt="wave"/>
-</div>
+</div> -->
