@@ -43,23 +43,23 @@
     Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 </h2>   -->
 
-<!-- <p align="left">     -->
-    <!-- linkedIn -->
+<!-- <p align="left"> 
+    linkedIn
     <a href="https://linkedin.com/in/SabidMahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SabidMahmud" height="28" width="40" /></a>
-    <!-- stackOverflow -->
+    <!-- stackOverflow
     <a href="https://stackoverflow.com/users/16950349/sabid?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16950349" height="30" width="40" /></a>  
-    <!-- facebook -->
+    facebook
     <a href="https://facebook.com/sabidmahmud.online" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabidmahmud.online" height="30" width="40" /></a>  
-    <!-- medium -->
+     medium 
     <a href="https://sabidmahmud.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>  
-    <!-- youtube -->
+    youtube 
     <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>  
-    <!-- discord
-    <a href="https://www.discord.com/sabidmahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="35" width="40" /></a>   -->
-    <!-- twitter -->
+    discord
+    <a href="https://www.discord.com/sabidmahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="35" width="40" /></a>
+    twitter
     <a href="https://twitter.com/_sabidmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SabidMahmud" height="30" width="40" /></a>
-</p>   -->
-<br> 
+</p>
+<br> -->
 
 <!-- language and tools I use -->
 
