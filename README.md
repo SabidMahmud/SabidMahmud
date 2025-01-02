@@ -31,12 +31,12 @@
 
 <!-- - 💬 Talk to me about Python, JavaScript, Data Structures, ML, AI, Open Source Contribution, Career Opportunity etc.  -->
 
-- 📫 Reach me at: 
+<!-- - 📫 Reach me at: 
     - Academic email: **sabid.mahmud@g.bracu.ac.bd**
     - Personal email: **sabidmahmud96@gmail.com**
 
 <br>
-
+-->
 <!-- Connect with me -->
 
 <!-- <h2>
