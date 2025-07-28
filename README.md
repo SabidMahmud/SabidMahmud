@@ -7,9 +7,9 @@
     Hello there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"><br>I am Sabid Mahmud
 </h1>  
 <h3 align="center">A passionate Computer Science Student from 🇧🇩</h3>  
-
+-->
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&hide_boarder=true" alt="SabidMahmud" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&hide_boarder=false" alt="SabidMahmud" />
 </p>
 
 <br>
