@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Computer Science Student from 🇧🇩</h3>  
 -->
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&hide_boarder=false" alt="SabidMahmud" />
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=SabidMahmud&hide_boarder=false](https://github-readme-stats.vercel.app/api?username=SabidMahmud&show_icons=true&hide_border=true)" alt="SabidMahmud" />
 </p>
 
 <br>
