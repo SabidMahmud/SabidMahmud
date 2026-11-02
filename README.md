@@ -2,7 +2,7 @@
 
 # Hi, I'm Sabid Mahmud 👋
 
-### Applied AI Engineer · Software Builder · Computer Vision Researcher
+### Software Engineer · Applied AI · Healthcare and Medical AI
 
 I build end-to-end intelligent systems—from model experimentation and evaluation  
 to APIs, user-facing products, containers, and deployment infrastructure.
